@@ -1,0 +1,32 @@
+.logo img{
+    width: 300px;
+}
+.mask img{
+    width:80%;
+}
+.logo{
+    background-color: #fffbf0;
+    
+}
+.button-color{
+    color: white;
+    background-color: #9eb543;
+    border: 0;
+}
+.same{
+    color:#fabe4c;
+}
+.image-size{
+    height:100%;
+}
+.boxshadow{
+    background-color: #f1f1f1;
+    border-radius: 15px;
+
+}
+.card-radius{
+    border-radius: 15px;
+}
+.padding{
+    margin-bottom: 10px;
+}
